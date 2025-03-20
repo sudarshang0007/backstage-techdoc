@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: 'product-team-account'
-  title: "product-team-account"
+  name: 'github-docs'
+  title: "github-docs"
   description: 'This component allows users to create new account requests for FDS'
   annotations:
     'backstage.io/techdocs-ref': dir:.
