@@ -1,9 +1,10 @@
-site_name: My Documentation Site
+site_name: "Catalog Configuration Docs"
+repo_url: "https://github.com/sudarshang0007/backstage-techdoc"
+edit_uri: "https://github.com/sudarshang0007/backstage-techdoc/edit/main/docs"
 nav:
   - Home: index.md
-  - About: about.md
+  - Catalog Configuration: catalog-configuration.md
 theme:
   name: mkdocs
 plugins:
-  - search
   - techdocs
