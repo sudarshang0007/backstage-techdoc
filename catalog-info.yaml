@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: 'product-team-account'
+  title: "product-team-account"
+  description: 'This component allows users to create new account requests for FDS'
+  annotations:
+    'backstage.io/techdocs-ref': dir:.
+  tags:
+    - automation
+spec:
+  type: service
+  lifecycle: production
+  owner: group:autobahn-admin
+---
