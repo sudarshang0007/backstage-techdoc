@@ -6,4 +6,4 @@ theme:
   name: mkdocs
 plugins:
   - search
-  - techdocs
+  - techdocs-core
