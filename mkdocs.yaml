@@ -1,0 +1,9 @@
+site_name: My Documentation Site
+nav:
+  - Home: index.md
+  - About: about.md
+theme:
+  name: mkdocs
+plugins:
+  - search
+  - techdocs
